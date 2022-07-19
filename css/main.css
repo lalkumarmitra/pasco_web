@@ -72,7 +72,7 @@ header .divider {
     background: #707070;
     width: 1px;
     height: 100%;
-    margin: 0 14px;
+    margin: 1px 13px 0 14px;
 }
 
 header .signInLanguage .signIn {
@@ -88,7 +88,7 @@ header .signInLanguage .material-icons {
 header .signInLanguage .signIn .signInText {
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: bold;
     word-spacing: 2px;
 }
@@ -159,7 +159,7 @@ header .heroSection nav .logo h2 {
     font-size: 25px;
     font-weight: bold;
     text-transform: uppercase;
-    margin: 0;
+    margin: -2px 0 0 0;
     line-height: 29px;
 }
 
@@ -188,7 +188,7 @@ header .heroSection nav .navMenu ul li {
 .active::after {
     content: "";
     position: absolute;
-    top: 44px;
+    top: 46px;
     left: -12px;
     width: 80px;
     height: 4px;
