@@ -213,6 +213,7 @@ header .heroSection nav .navIcons {
     display: flex;
     align-items: center;
     height: 100%;
+    margin-left: -2px;
 }
 
 header .heroSection nav .navIcons span {
