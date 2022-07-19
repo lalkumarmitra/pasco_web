@@ -255,11 +255,12 @@ header .heroSection .heroText .caption span {
     font-weight: 400;
     text-align: center;
     text-transform: uppercase;
+    margin: -2px -1px 0px 0px;
 }
 
 header .heroSection .heroText .caption h2 {
     font-size: 42px;
-    letter-spacing: 1px;
+    letter-spacing: 0.005em;
     color: #ffffff;
     font-weight: 900;
     text-align: center;
